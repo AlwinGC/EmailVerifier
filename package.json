@@ -1,0 +1,24 @@
+{
+  "name": "@alwingc/email-verifier",
+  "version": "1.0.0",
+  "description": "Validator For Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlwinGC/EmailVerifier.git"
+  },
+  "keywords": [
+    "Email",
+    "Verifier",
+    "Validator"
+  ],
+  "author": "Alwin Christie <alwingeorgechristie@gmail.com>",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/AlwinGC/EmailVerifier/issues"
+  },
+  "homepage": "https://github.com/AlwinGC/EmailVerifier#readme"
+}
